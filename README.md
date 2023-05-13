@@ -7,3 +7,5 @@ Brooklyn tiene el mayor número de arrestos entre los cinco distritos de la ciud
 ![dashboard](./pics/dash.png)
 
 Podría haber una variedad de razones por las cuales algunos distritos tuvieron tasas de arresto más altas que otros. Podría ser debido a factores como la densidad de población, el estatus socioeconómico, la presencia de diferentes negocios o industrias, o el desempeño de la aplicación de la ley local.
+
+![dashboard](./pics/house.png)
