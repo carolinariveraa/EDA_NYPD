@@ -36,11 +36,19 @@ Podría haber una variedad de razones por las cuales algunos distritos tuvieron 
   <summary>Precio de alquiler y venta por distrito</summary>
   <br>
 
+A partir del grafico se observa que para todos los distritos se cumple que la relación entre el precio de venta de casas y la cantidad de arrestos es inversamente proporcional. Sin embargo, Manhattan rompe la regla.
+
+<br>
+
 ![dashboard](./pics/house.png)
 </details>
 
 <details>
   <summary>Tasa de empleados por distrito</summary>
+  <br>
+
+  En esta hoja filtrando por el año se puede ver la tasa de empleabilidad, con esta comparativa se determina si la variable de empleo es relevante para el aumento de crimenes por distrito.
+
   <br>
 
 ![dashboard](./pics/employ.png)
