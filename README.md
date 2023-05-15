@@ -48,6 +48,7 @@ A partir del grafico se observa que para todos los distritos se cumple que la re
   <br>
 
   En esta hoja filtrando por el año se puede ver la tasa de empleabilidad, con esta comparativa se determina si la variable de empleo es relevante para el aumento de crimenes por distrito.
+  Debido a la pandemia hubo un aumento de despidos en 2020 y aumentó la tasa de desempleabilidad esto produjó que el número de crimenes reportados fuese mayor respecto a 2019. 
 
   <br>
 
