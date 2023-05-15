@@ -3,25 +3,24 @@
 ## Índice
 
 1. [Descripción](#descripcion-del-proyecto)
-2. [Objetivo](#objetivo)
+
 3. [Dashboard Resumen](#)
 4. [Análisis](#)
 5. [Conclusiones](#conclusion)
 
 
-## 1.  Descripción del proyecto
+## 1.  Descripción del proyecto y objetivo
 
-Este proyecto tiene como objetivo analizar y reconocer patrones y tendencias en la actividad de aplicación de la ley por parte de la policía de la ciudad de Nueva York, representada en estadísticas de arrestos realizados por el NYPD.
+Este proyecto tiene como objetivo analizar y reconocer patrones en la tasa de criminalidad en el distrito de Nueva York. 
 
-### 2. Objetivo
 
-### 3. Dashboard resumen 
+### 2. Dashboard resumen 
 
-Brooklyn tiene el mayor número de arrestos entre los cinco distritos de la ciudad de Nueva York, con un total de 38.064 arrestos. El Bronx tuvo el segundo mayor número de arrestos, con 32.307, seguido de Manhattan (34.580), Queens (29.038) y Staten Island (6.247).
+En el Dashboard se observa un resumén de los datos obtenidos del NYPD en relación con variables de interés que podrían afectar al aumento de número de delitos.
 
 ![dashboard](./pics/dash.png)
 
-## 4. Análisis 
+## 3. Análisis 
 
 Podría haber una variedad de razones por las cuales algunos distritos tuvieron tasas de arresto más altas que otros. Podría ser debido a factores como la densidad de población, el estatus socioeconómico, la presencia de diferentes negocios o industrias, o el desempeño de la aplicación de la ley local.
 
@@ -55,4 +54,8 @@ A partir del grafico se observa que para todos los distritos se cumple que la re
 ![dashboard](./pics/employ.png)
 </details>
 
-## 5. Conclusiones
+## 4. Conclusiones
+
+ Los distritos con mayor densidad de población, como el Bronx y Brooklyn, tienden a tener un mayor número de arrestos. Además, existe una correlación inversa entre el precio de las viviendas y la tasa de arrestos en los distritos. A medida que aumenta el precio de las viviendas, tiende a disminuir la tasa de arrestos. Sin embargo, Manhattan parece ser una excepción a esta tendencia, posiblemente debido a áreas turísticas o concentración de negocios.
+
+La tasa de empleo puede ser un factor relevante en el aumento de los delitos. Durante la pandemia, se observó un aumento en la tasa de desempleo, lo que coincidió con un aumento en el número de arrestos reportados. Esto sugiere que la falta de empleo y las dificultades económicas pueden contribuir al aumento de la criminalidad.
