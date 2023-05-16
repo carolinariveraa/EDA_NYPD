@@ -43,7 +43,7 @@ A partir del grafico se observa que para todos los distritos se cumple que la re
 </details>
 
 <details>
-  <summary>Tasa de empleados por distrito</summary>
+  <summary>Índice de empleabilidad por distrito</summary>
   <br>
 
   En esta hoja filtrando por el año se puede ver la tasa de empleabilidad, con esta comparativa se determina si la variable de empleo es relevante para el aumento de crimenes por distrito.
